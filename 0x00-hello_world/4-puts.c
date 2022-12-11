@@ -4,7 +4,7 @@ int main(){
 		
 		char str[]="Programming is like building a multilingual puzzle";
 			
-			printf("%s\n",str);
+			puts("%s\n",str);
 				
 				return 0;
 }

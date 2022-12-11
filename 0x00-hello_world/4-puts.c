@@ -1,7 +1,12 @@
-#include <stdio.h>
-#include <string.h>
+# include <stdio.h>
+/**
+ * main - main function
+ * char -this for character
+ */
 int main(void)
-{ char str[] = "Programming is like building a multilingual puzzle";
-put("%s \n", str);
-return 0;
+{
+     char line[] = "Programming is like building a multilingual puzzle";
+     puts(line);
+     return (0);
+ 
 }

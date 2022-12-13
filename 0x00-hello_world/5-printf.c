@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <string.h>
 /**
-*main - Entry point
-*Description: 'the program description
-* Return: Always 0 (Success)
+*main-Express_main
+*Description ->function
+*Return:Always-0-(Success)
 */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n";)
+char t[50] = "with proper grammar, but the outcome is a piece of art,";
+printf("%s\n", t);
 return (0);
 }
